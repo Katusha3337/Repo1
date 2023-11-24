@@ -2,3 +2,4 @@ Hello repo
 Hello from repo
 
 Hello from newBranch
+Hello from newBranch2
