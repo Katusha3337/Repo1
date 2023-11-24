@@ -1,4 +1,10 @@
 Hello repo
 Hello from repo
 
+
 Hello from master1
+
+
+Hello from newBranch
+Hello from newBranch2
+
